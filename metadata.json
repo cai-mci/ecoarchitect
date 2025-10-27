@@ -1,0 +1,5 @@
+{
+  "name": "Eco Architect",
+  "description": "An AI-powered tool to analyze the sustainability of building plans. Users can input building details, receive a sustainability score, and get actionable recommendations to create more eco-friendly designs.",
+  "requestFramePermissions": []
+}
